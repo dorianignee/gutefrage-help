@@ -1,0 +1,31 @@
+Spielname       Boulder Dash
+Spielart        Arcade - Boulder Dash	
+Publisher       First Star Software
+Programmierer   Peter Liepa	
+Musik-Interpret	Peter Liepa
+Jahr            1984
+Sprache         Englisch
+Anleitung       nicht vorhanden
+Documents       vorhanden
+Cover           vorhanden
+Spieletest      vorhanden
+L�sung          vorhanden
+Sp-Anzahl       2 Spieler (alternativ)
+Schwierigkeit   schwer	
+Bewertung       10 (ein Klassiker)
+Cheatmodus      ja (1)
+Highscoreliste  nicht vorhanden
+Pgm getestet    nein - Programm angetestet
+getestet mit    CCS64-v3.0, Vice-v1.20
+Version         Nova-5211
+CRC32-Check     f7b58041
+Steuerung mit   Joystick in Port 1
+Emu-Einstellung Vice:  True-Drive-Emu = EIN
+                       Virtual-Traps  = EIN
+                CCS64: True-Drive-Emu = AUS
+
+Bemerkungen
+In diesem Spiele-Klassiker geht es um eine hindernisreiche Diamantenjagd im Untergrund. Versuchen Sie alle Diamanten aufzusammeln und dann den Ausgang zu finden. Aber h�ten Sie sich vor den Felsbrocken. Wenn Sie direkt darunter stehen, kann Rockford (der W�hler) sie mit dem Kopf halten, aber wenn ihm ein Fels auf den Kopf f�llt, haucht er eines seiner Leben aus. Die Felsbrocken bleiben nicht aufeinander oder auf Mauerst�cken liegen, wenn Sie ihnen die st�tzende Erde weggraben. Au�erdem gibt es da einiges Getier und Dinge die Sie besser nicht ber�hren sollten. Schmetterlinge und andere Erdbewohner k�nnen Sie nur bezwingen, indem Sie Felsbrocken auf sie fallen lassen. Sie verwandeln sich dann in Diamanten, die Sie aufsammeln k�nnen. Und damit es nicht zu leicht wird, gibt es auch noch ein Zeitlimit.
+Nach jedem Spiel sehen Sie Ihren aktuellen Score und den Highscore
+
+Wichtiges
